@@ -1,6 +1,9 @@
 # RickandMorty
 
 - Implemented RickAndMorty REST API
+- MVVM Architecture
+- RxSwift for API integration
+- Codable Data Models
 - The app contains 2 screens
 - Screen 1 : List of all episodes with pagination
 - Select any episode > Screen 2
